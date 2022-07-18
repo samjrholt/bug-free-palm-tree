@@ -5,11 +5,11 @@ S. J. R. Holt<sup>1</sup>, M. Lang<sup>1,2</sup>, J. C. Loudon<sup>3</sup>, T. J
 <sup>1</sup> *Faculty of Engineering and Physical Sciences, University of Southampton, Southampton SO17 1BJ, United Kingdom*  
 <sup>2</sup> *Max Planck Institute for the Structure and Dynamics of Matter, Luruper Chaussee 149, 22761 Hamburg, Germany*  
 <sup>3</sup> *Department of Materials Science and Metallurgy, University of Cambridge, Cambridge, CB3 0FS, United Kingdom*  
-<sup>4</sup> *Department of Physics, Durham University, Durham, DH1 3LE, United Kingdom*
-<sup>5</sup> *Department of Physics, Royal Holloway, Egham, TW20 0EX, United Kingdom*
-<sup>6</sup> *Paleomagnetic Laboratory Fort Hoofddijk, Utrecht University, Utrecht, 3584 CD, Netherlands*
-<sup>7</sup> *Department of Earth Science and Engineering, Imperial College London, London SW7 2AZ, UK*
-<sup>8</sup> *Center for Free-Electron Laser Science, Luruper Chaussee 149, 22761 Hamburg, Germany*
+<sup>4</sup> *Department of Physics, Durham University, Durham, DH1 3LE, United Kingdom*  
+<sup>5</sup> *Department of Physics, Royal Holloway, Egham, TW20 0EX, United Kingdom*  
+<sup>6</sup> *Paleomagnetic Laboratory Fort Hoofddijk, Utrecht University, Utrecht, 3584 CD, Netherlands*  
+<sup>7</sup> *Department of Earth Science and Engineering, Imperial College London, London SW7 2AZ, UK*  
+<sup>8</sup> *Center for Free-Electron Laser Science, Luruper Chaussee 149, 22761 Hamburg, Germany*  
 
 
 | Description | Badge |
